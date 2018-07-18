@@ -8,3 +8,4 @@ function test(object $obj): object
 
 test(new StdClass());
 
+
