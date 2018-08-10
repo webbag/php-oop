@@ -1,0 +1,10 @@
+{
+    "name": "webbag/di",
+    "require-dev": {
+        "symfony/dependency-injection": "^4.1"
+    },
+    "require": {
+        "symfony/yaml": "^4.1",
+        "symfony/console": "^4.1"
+    }
+}
